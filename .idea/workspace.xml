@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DescargasServidor:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6d7e60e-82e8-4e4e-b758-34831b9062a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M6mhM3WmCGNKVJL3hxqx4nAxbW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW&quot;: &quot;false&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;256&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/danie/Documents/PROGRAMACIÓN DE SERVICIOS Y PROCESOS/WORKSPACE - PSP/DescargasServidor&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\danie\Documents\PROGRAMACIÓN DE SERVICIOS Y PROCESOS\WORKSPACE - PSP\DescargasServidor\src\tasks" />
+      <recent name="C:\Users\danie\Documents\PROGRAMACIÓN DE SERVICIOS Y PROCESOS\WORKSPACE - PSP\DescargasServidor\src\gui" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="controlador" />
+      <recent name="tasks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.VistaCliente">
+    <configuration name="VistaCliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.VistaCliente" />
+      <module name="DescargasServidor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VistaServidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.VistaServidor" />
+      <module name="DescargasServidor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VistaCliente" />
+        <item itemvalue="Application.VistaServidor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6d7e60e-82e8-4e4e-b758-34831b9062a1" name="Changes" comment="" />
+      <created>1677096524917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677096524917</updated>
+      <workItem from="1677096525916" duration="25035000" />
+      <workItem from="1677159350470" duration="299000" />
+      <workItem from="1677225635143" duration="13000" />
+      <workItem from="1677255803391" duration="318000" />
+      <workItem from="1677318900745" duration="1146000" />
+      <workItem from="1677324959775" duration="19726000" />
+      <workItem from="1677348977055" duration="6696000" />
+      <workItem from="1677357438575" duration="361000" />
+      <workItem from="1677358896995" duration="1459000" />
+      <workItem from="1677360760273" duration="10038000" />
+      <workItem from="1677398328236" duration="2218000" />
+      <workItem from="1677400666157" duration="2314000" />
+      <workItem from="1677418437065" duration="61000" />
+      <workItem from="1677420437497" duration="471000" />
+      <workItem from="1677421582195" duration="381000" />
+      <workItem from="1677423176246" duration="151000" />
+      <workItem from="1677530923804" duration="17000" />
+      <workItem from="1678295642114" duration="2613000" />
+      <workItem from="1678719796174" duration="84000" />
+      <workItem from="1678883493706" duration="7561000" />
+      <workItem from="1678902957860" duration="1117000" />
+      <workItem from="1678981830903" duration="540000" />
+      <workItem from="1678989225008" duration="3067000" />
+      <workItem from="1679088523187" duration="50000" />
+      <workItem from="1679314897366" duration="2566000" />
+      <workItem from="1679331762933" duration="13753000" />
+      <workItem from="1679418795987" duration="2344000" />
+      <workItem from="1679422520473" duration="9000" />
+      <workItem from="1679479968187" duration="147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
